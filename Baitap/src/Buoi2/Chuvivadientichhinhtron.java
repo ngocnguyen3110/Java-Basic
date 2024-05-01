@@ -3,7 +3,7 @@ package Buoi2;
 import java.util.Scanner;
 
 public class Chuvivadientichhinhtron {
-    //Viết chương trình tính Chu vi hình tròn;
+    //Viết chương trình tính Chu vi và diện tích hình tròn;
     public static void main (String[] agrs){
         double r, chuvi, dientich;
         double pi = 3.14;

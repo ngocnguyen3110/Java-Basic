@@ -2,7 +2,7 @@ package Buoi2;
 
 import java.util.Scanner;
 
-public class Conghaiso {
+public class congHaiSo {
     public static void main(String[] args) {
         // Khai báo bến số là num1 và num 2, và tổng 2 số là sum;
         double num1, num2, sum;

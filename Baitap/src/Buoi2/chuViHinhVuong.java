@@ -2,7 +2,7 @@ package Buoi2;
 
 import java.util.Scanner;
 
-public class Chuvihinhvuong {
+public class chuViHinhVuong {
     //Viết chương trình tính chu vi hình vuông.
     public static void main (String[] agrs){
         Scanner input = new Scanner(System.in);

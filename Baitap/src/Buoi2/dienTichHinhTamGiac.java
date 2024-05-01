@@ -2,7 +2,7 @@ package Buoi2;
 
 import java.util.Scanner;
 
-public class Dientichhinhtamgiac {
+public class dienTichHinhTamGiac {
     //Viết chương trình tính Diện tích tam giác.
     public static void main (String[] agrs){
         Scanner input = new Scanner(System.in);

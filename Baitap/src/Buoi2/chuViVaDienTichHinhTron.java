@@ -2,7 +2,7 @@ package Buoi2;
 
 import java.util.Scanner;
 
-public class Chuvivadientichhinhtron {
+public class chuViVaDienTichHinhTron {
     //Viết chương trình tính Chu vi và diện tích hình tròn;
     public static void main (String[] agrs){
         double r, chuvi, dientich;

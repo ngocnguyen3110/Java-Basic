@@ -2,7 +2,7 @@ package Buoi2;
 
 import java.util.Scanner;
 
-public class Dientichhinhchunhat {
+public class dienTichHinhChuNhat {
     //Viết chương trình tính diện tích hình chữ nhật.
     public static void main (String[] agrs){
         Scanner input = new Scanner(System.in);
